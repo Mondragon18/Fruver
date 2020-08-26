@@ -1,0 +1,12 @@
+.swal-modal {
+    border: 3px solid white;
+    border-radius: 0px;
+}
+.swal-text {
+    background-color: #FEFAE3;
+    padding: 17px;
+    display: block;
+    margin: 22px;
+    text-align: center;
+    color: #61534e;
+}
